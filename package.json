@@ -1,0 +1,18 @@
+{
+  "name": "2023.06.19_docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-native start"
+  },
+  "keywords": [],
+  "author": "박준형 <108733795+krapli441@users.noreply.github.com>",
+  "license": "ISC",
+  "repository": "https://github.com/krapli441/2023.06.19_docker.git",
+  "dependencies": {
+    "react-native": "^0.71.11",
+    "react-navigation": "^4.4.4"
+  }
+}
