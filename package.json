@@ -12,7 +12,7 @@
   "license": "ISC",
   "repository": "https://github.com/krapli441/2023.06.19_docker.git",
   "dependencies": {
-    "react-native": "^0.71.11",
-    "react-navigation": "^4.4.4"
+    "@react-navigation/native": "^6.1.7",
+    "react-native": "^0.72"
   }
 }
