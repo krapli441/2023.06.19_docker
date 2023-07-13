@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>실시간으로 할 수 있다</Text>
+      <Text style={{ fontSize: 32 }}>hello world!</Text>
       <StatusBar style="auto" />
     </View>
   );
