@@ -13,6 +13,7 @@
   "repository": "https://github.com/krapli441/2023.06.19_docker.git",
   "dependencies": {
     "@react-navigation/native": "^6.1.7",
+    "expo-cli": "^6.3.10",
     "react-native": "^0.72"
   }
 }
